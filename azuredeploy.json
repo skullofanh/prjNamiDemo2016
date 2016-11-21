@@ -4,13 +4,14 @@
   "parameters": {
     "siteName": {
 	  "type": "string",
-	  "defaultValue" : "prjnamiserver201611"
+	  "value": "prjnamiserver201611"
     },
     "hostingPlanName": {
       "type": "string"
     },
     "siteLocation": {
-      "type": "string"
+      "type": "string",
+	  "value": "Japanese"
     },
     "sku": {
       "type": "string",
@@ -33,7 +34,7 @@
     },
     "sqlServerName": {
       "type": "string",
-	  "defaultValue" : "prjnamiserver201611"
+	  "value" : "prjnamiserver201611"
     },
     "sqlAdministratorLogin": {
       "type": "string"
