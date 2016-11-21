@@ -3,7 +3,8 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "type": "prjnami2016"
+	  "type": "string",
+	  "defaultValue" : "prjnamiserver201611"
     },
     "hostingPlanName": {
       "type": "string"
@@ -31,7 +32,8 @@
       "defaultValue": "0"
     },
     "sqlServerName": {
-      "type": "prjnamiserver201611"
+      "type": "string",
+	  "defaultValue" : "prjnamiserver201611"
     },
     "sqlAdministratorLogin": {
       "type": "string"
