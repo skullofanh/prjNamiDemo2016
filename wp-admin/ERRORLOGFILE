@@ -1,0 +1,435 @@
+2016-11-11 10:11:19 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:11:20 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:11:40 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:11:40 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:11:48 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:11:49 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:12:03 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:12:03 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:12:47 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:12:48 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:13:50 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:13:50 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-11 10:13:54 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'home'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'active_plugins'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'hack_file'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'blog_charset'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'wp_user_roles'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'template'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'stylesheet'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'WPLANG'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'category_base'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'category_base'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'tag_base'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'tag_base'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'use_smilies'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'theme_switched'
+2016-11-11 10:13:58 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'html_type'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'html_type'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'blog_charset'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_name, option_value FROM wp_options WHERE autoload = 'yes'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_name, option_value FROM wp_options
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:13:59 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'home'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'active_plugins'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'hack_file'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'blog_charset'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'wp_user_roles'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'template'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'stylesheet'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'WPLANG'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'category_base'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'category_base'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'tag_base'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'tag_base'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'use_smilies'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:14:41 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:14:42 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:14:42 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-11 10:14:42 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'theme_switched'
+2016-11-11 10:14:42 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-11 10:14:42 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'html_type'
+2016-11-11 10:14:42 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'html_type'
+2016-11-11 10:14:42 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-15 05:54:45 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-15 06:00:51 Error Code: 208 -- Query NOT translated due to non-defined error code.
+INSERT INTO [wp_simple_post_templates] ([title], [excerpt], [content]) VALUES ('', '', '<h2>簡易仕様</h2>
+
+<h2>保管場所</h2>
+
+<h2>更新履歴</h2>
+
+<h2>使い方</h2>
+
+<h2>注意点</h2>
+
+<h2>よくある用途事例</h2>
+
+<h2>関連リンク</h2>
+
+<h2>検索用タグ</h2>
+')
+2016-11-15 06:00:52 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-15 06:02:43 Error Code: 208 -- Query NOT translated due to non-defined error code.
+INSERT INTO [wp_simple_post_templates] ([title], [excerpt], [content]) VALUES ('テンプレート：ACSK', 'T_ACSK', '<h2>簡易仕様</h2>
+
+<h2>保管場所</h2>
+
+<h2>更新履歴</h2>
+
+<h2>使い方</h2>
+
+<h2>注意点</h2>
+
+<h2>よくある用途事例</h2>
+
+<h2>関連リンク</h2>
+
+<h2>検索用タグ</h2>
+')
+2016-11-15 06:02:44 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-15 06:03:20 Error Code: 208 -- Query NOT translated due to non-defined error code.
+INSERT INTO [wp_simple_post_templates] ([title], [excerpt], [content]) VALUES ('テンプレート：ACSK', 'T_ACSK', '<h2>簡易仕様</h2>
+<h2>保管場所</h2>
+<h2>更新履歴</h2>
+<h2>使い方</h2>
+<h2>注意点</h2>
+<h2>よくある用途事例</h2>
+<h2>関連リンク</h2>
+<h2>検索用タグ</h2>')
+2016-11-15 06:03:20 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-15 06:03:23 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-15 06:03:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-15 06:03:26 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-15 06:03:28 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-15 06:03:29 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-15 06:03:42 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT * FROM wp_simple_post_templates ORDER BY title ASC
+2016-11-18 04:08:45 Error Code: 2714 -- Query NOT translated due to non-defined error code.
+CREATE TABLE wp_termmeta (meta_id int NOT NULL identity(1,1), term_id int NOT NULL default 0, meta_key nvarchar(255) default NULL, meta_value nvarchar(max), CONSTRAINT wp_termmeta_PK PRIMARY KEY NONCLUSTERED (meta_id))
+2016-11-18 04:08:46 Error Code: 1913 -- Query NOT translated due to non-defined error code.
+CREATE CLUSTERED INDEX wp_termmeta_CLU1 on wp_termmeta (term_id)
+2016-11-18 04:08:46 Error Code: 1913 -- Query NOT translated due to non-defined error code.
+CREATE INDEX wp_termmeta_IDX2 on wp_termmeta (meta_key)
+2016-11-21 01:58:52 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-21 01:58:52 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-21 01:58:55 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-21 01:58:55 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-21 01:58:56 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-21 01:58:57 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-21 01:59:22 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-21 01:59:22 Error Code: -14 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [options] WHERE option_name = 'siteurl'
+2016-11-21 01:59:23 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'home'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'active_plugins'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'hack_file'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'blog_charset'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'wp_user_roles'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'template'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'stylesheet'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'WPLANG'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'category_base'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'category_base'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'tag_base'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'tag_base'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'use_smilies'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'theme_switched'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'home'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'html_type'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'html_type'
+2016-11-21 01:59:24 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'blog_charset'
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_name, option_value FROM wp_options WHERE autoload = 'yes'
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_name, option_value FROM wp_options
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:25 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'home'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'active_plugins'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'hack_file'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'blog_charset'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'wp_user_roles'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'template'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'stylesheet'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'WPLANG'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'category_base'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'category_base'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'tag_base'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'tag_base'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'permalink_structure'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'use_smilies'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'cron'
+2016-11-21 01:59:46 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'theme_switched'
+2016-11-21 01:59:47 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT option_value FROM [wp_options] WHERE option_name = 'siteurl'
+2016-11-21 01:59:47 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'html_type'
+2016-11-21 01:59:47 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'html_type'
+2016-11-21 01:59:47 Error Code: 208 -- Query NOT translated due to non-defined error code.
+SELECT TOP 1 option_value FROM wp_options WHERE option_name = 'siteurl'
+2016-11-21 03:00:36 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:00:36', [post_date_gmt] = '0001-01-01 00:00:00', [post_content] = '', [post_content_filtered] = '', [post_title] = '楽天における情報セキュリティの取り組みについてはこちらTEST', [post_excerpt] = '', [post_status] = 'draft', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:00:36', [post_modified_gmt] = '2016-11-21 03:00:36', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
+2016-11-21 03:00:36 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:00:36', [post_date_gmt] = '0001-01-01 00:00:00', [post_content] = '', [post_content_filtered] = '', [post_title] = '楽天における情報セキュリティの取り組みについてはこちらTEST', [post_excerpt] = '', [post_status] = 'draft', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:00:36', [post_modified_gmt] = '2016-11-21 03:00:36', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
+2016-11-21 03:00:40 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:00:40', [post_date_gmt] = '0001-01-01 00:00:00', [post_content] = '※楽天市場はSSLに対応しているので、クレジットカード番号は暗号化して送信されます。', [post_content_filtered] = '', [post_title] = '楽天における情報セキュリティの取り組みについてはこちらTEST', [post_excerpt] = '', [post_status] = 'draft', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:00:40', [post_modified_gmt] = '2016-11-21 03:00:40', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
+2016-11-21 03:00:40 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:00:40', [post_date_gmt] = '0001-01-01 00:00:00', [post_content] = '※楽天市場はSSLに対応しているので、クレジットカード番号は暗号化して送信されます。', [post_content_filtered] = '', [post_title] = '楽天における情報セキュリティの取り組みについてはこちらTEST', [post_excerpt] = '', [post_status] = 'draft', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:00:40', [post_modified_gmt] = '2016-11-21 03:00:40', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
+2016-11-21 03:00:41 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:00:41', [post_date_gmt] = '2016-11-21 03:00:41', [post_content] = '※楽天市場はSSLに対応しているので、クレジットカード番号は暗号化して送信されます。', [post_content_filtered] = '', [post_title] = '楽天における情報セキュリティの取り組みについてはこちらTEST', [post_excerpt] = '', [post_status] = 'publish', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '%e6%a5%bd%e5%a4%a9%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e6%83%85%e5%a0%b1%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%81%ae%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:00:41', [post_modified_gmt] = '2016-11-21 03:00:41', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
+2016-11-21 03:00:41 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:00:41', [post_date_gmt] = '2016-11-21 03:00:41', [post_content] = '※楽天市場はSSLに対応しているので、クレジットカード番号は暗号化して送信されます。', [post_content_filtered] = '', [post_title] = '楽天における情報セキュリティの取り組みについてはこちらTEST', [post_excerpt] = '', [post_status] = 'publish', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '%e6%a5%bd%e5%a4%a9%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e6%83%85%e5%a0%b1%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%81%ae%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:00:41', [post_modified_gmt] = '2016-11-21 03:00:41', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
+2016-11-21 03:01:16 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:01:16', [post_date_gmt] = '0001-01-01 00:00:00', [post_content] = '', [post_content_filtered] = '', [post_title] = '※楽天市場はSSLに対応しているので、クレジットカード番号は暗号化して送信されます。', [post_excerpt] = '', [post_status] = 'draft', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:01:16', [post_modified_gmt] = '2016-11-21 03:01:16', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
+2016-11-21 03:01:16 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:01:16', [post_date_gmt] = '0001-01-01 00:00:00', [post_content] = '', [post_content_filtered] = '', [post_title] = '※楽天市場はSSLに対応しているので、クレジットカード番号は暗号化して送信されます。', [post_excerpt] = '', [post_status] = 'draft', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:01:16', [post_modified_gmt] = '2016-11-21 03:01:16', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
+2016-11-21 03:01:30 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:01:30', [post_date_gmt] = '2016-11-21 03:01:30', [post_content] = '※楽天市場はSSLに対応しているので、クレジットカード番号は暗号化して送信されます。', [post_content_filtered] = '', [post_title] = '楽天における情報セキュリティの取り組みについてはこちらTEST', [post_excerpt] = '', [post_status] = 'publish', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '%e6%a5%bd%e5%a4%a9%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e6%83%85%e5%a0%b1%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%81%ae%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:01:30', [post_modified_gmt] = '2016-11-21 03:01:30', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
+2016-11-21 03:01:30 Error Code: -46 -- Query NOT translated due to non-defined error code.
+UPDATE [wp_posts] SET [post_author] = 1, [post_date] = '2016-11-21 03:01:30', [post_date_gmt] = '2016-11-21 03:01:30', [post_content] = '※楽天市場はSSLに対応しているので、クレジットカード番号は暗号化して送信されます。', [post_content_filtered] = '', [post_title] = '楽天における情報セキュリティの取り組みについてはこちらTEST', [post_excerpt] = '', [post_status] = 'publish', [post_type] = 'post', [comment_status] = 'open', [ping_status] = 'open', [post_password] = '', [post_name] = '%e6%a5%bd%e5%a4%a9%e3%81%ab%e3%81%8a%e3%81%91%e3%82%8b%e6%83%85%e5%a0%b1%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3%e3%81%ae%e5%8f%96%e3%82%8a%e7%b5%84%e3%81%bf%e3%81%ab%e3%81%a4%e3%81%84', [to_ping] = '', [pinged] = '', [post_modified] = '2016-11-21 03:01:30', [post_modified_gmt] = '2016-11-21 03:01:30', [post_parent] = 0, [menu_order] = 0, [post_mime_type] = '', [guid] = 'http://wpnamitest/?p=9' WHERE [ID] = 9
