@@ -4,7 +4,7 @@ Project Nami
 ###Version: `1.4.3`###
 
 ###Description:###
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://deploy.azure.com/?repository=https://github.com/ProjectNami/projectnami/tree/latest)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://deploy.azure.com/?repository=https://github.com/skullofanh/prjNamiDemo2016.git)
 
 In its current form, Project Nami is basically WordPress powered by Microsoft SQL Server. **All** WordPress features and functions are supported.
 
