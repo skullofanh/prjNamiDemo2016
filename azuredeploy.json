@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "type": "string"
+      "type": "prjnami2016"
     },
     "hostingPlanName": {
       "type": "string"
@@ -31,7 +31,7 @@
       "defaultValue": "0"
     },
     "sqlServerName": {
-      "type": "string"
+      "type": "prjnamiserver201611"
     },
     "sqlAdministratorLogin": {
       "type": "string"
@@ -3930,7 +3930,7 @@
         "SQL_Ukrainian_CP1251_CI_AS",
         "SQL_Ukrainian_CP1251_CS_AS"
         ],
-      "defaultValue": "SQL_Latin1_General_CP1_CI_AS"
+      "defaultValue": "Japanese_CI_AS"
     },
     "repoUrl": {
       "type": "string"
